@@ -1,0 +1,18 @@
+Schematic and PCB Check Report
+------------------------------
+
+Report Written:     21:34 Friday, February 07, 2025
+Project Path:       C:\Users\Git\penplot\switch_pcb\switch_pcb.prj
+Design Path:        C:\Users\Git\penplot\switch_pcb\switch_pcb.pcb
+Design Title:       
+Created:            2/4/2025 10:32:15 PM
+Last Saved:         2/7/2025 8:00:17 AM
+Editing Time:       1253 min
+Units:              mm (precision 3)
+
+
+Checking integrity of Schematic and Pcb designs in project "switch_pcb"
+=======================================================================
+
+
+End Of Report.
