@@ -1,0 +1,12 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"90-22012025-025212";"";
+"MATERIAL";"SUS304";"";
+"TraceParts.PartTitle";"Slide Screw (Customizable)";"";
+"TraceParts.InstanceId";"90-22012025-02521242T621RGP3Q3ORVTWMPNOF18H";"";
+"REFERENCE";"BTTB-V1-D8-24-L145-F8-S20-V5-Q5-AV5.1";"";
+"SUPPLIER";"JLCMC";"";
+"DESIGN";"Slide Screw - BTTB-V1-D8-24-L145-F8-S20-V5-Q5-AV5.1";"";
+"Part_Number_ProductPage_URL";"https://jlcmc.com/?from=TP_LLS";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.0.0";"";
