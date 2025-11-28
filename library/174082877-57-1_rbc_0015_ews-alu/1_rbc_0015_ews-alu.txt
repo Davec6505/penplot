@@ -1,0 +1,12 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"90-30012025-037623";"";
+"REFERENCE";"RBC 0015 EWS-ALU";"";
+"TraceParts.PartTitle";"Accouplement hélicoïdal RBC EWS-ALU";"";
+"TraceParts.InstanceId";"90-30012025-03762392Q1NVFX58Z3MPBNTW62K4YFZ";"";
+"TraceParts.PartLanguage";"fr";"";
+"d1d2";"3/3";"";
+"SUPPLIER";"RINGSPANN France";"";
+"DESIGN";"Accouplement hélicoïdal RBC 0015 EWS-ALU";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"MATERIAL";"Aluminium";"";
+"TraceParts.PartVersion";"1.0.1";"";
