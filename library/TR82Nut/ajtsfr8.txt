@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"50-27082019-092705";"";
+"REFERENCE";"AJTSFR8";"";
+"TraceParts.PartTitle";"30°Lead Screw Nuts - Flanged - AJTSFR/AJTSFL/AJTSNR/AJTSNL/AJTSGR/AJTSGL/AJTSCR";"";
+"TraceParts.InstanceId";"50-27082019-09270557CYN3R5Y1SCI87LYX98OMIJI";"";
+"DESIGN";"30°Lead Screw Nuts - Flanged -  AJTSFR8";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"Shenzhen Shiruida Automation Equipment Co.,Ltd.";"";
+"TraceParts.PartVersion";"1.0.3";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"SHIRUIDA:50-27082019-092705";"";

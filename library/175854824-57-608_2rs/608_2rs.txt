@@ -1,0 +1,14 @@
+﻿"Symbol";"Value";"Unit";
+"REFERENCE";"608 2RS";"";
+"TraceParts.PartVersion";"1.1.4";"";
+"SUPPLIER";"JFK Group";"";
+"d_mm";"8";"";
+"MATERIAL";"Chrome steel";"";
+"TraceParts.PartNumber";"70-06062024-138743";"";
+"TraceParts.PartLanguage";"en";"";
+"DESIGN";"608 2RS Standard Ball Bearings";"";
+"TraceParts.InstanceId";"70-06062024-1387437XYUW2CSOUDW4K4OHFUESNJW2";"";
+"TraceParts.PartTitle";"Ball bearings";"";
+"b_mm";"7";"";
+"shields_material";"Rubber";"";
+"TRACEPARTS";"TRACEPARTS";"";
