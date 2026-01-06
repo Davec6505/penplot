@@ -1,0 +1,15 @@
+Router Report
+-------------
+
+Report Written:     07:34 Tuesday, January 06, 2026
+Project Path:       C:\Users\davec\GIT\penplot\switch_pcb\switch_pcb.prj
+Design Path:        C:\Users\davec\GIT\penplot\switch_pcb\switch_pcb.pcb
+Design Title:       
+Created:            2/4/2025 10:32:15 PM
+Last Saved:         1/6/2026 7:25:40 AM
+Editing Time:       1452 min
+Units:              mm (precision 3)
+
+Track Length 2778.068 mm 19 vias
+
+End Of Report.
