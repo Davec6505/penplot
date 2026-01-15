@@ -3,3 +3,8 @@
 *.pwmx
 /library/
 /logs/
+/switch_pcb/Plots
+/switch_pcb/backups
+/switch_pcb/Gerber
+/switch_pcb/Reports
+/STL
