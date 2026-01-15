@@ -1,5 +1,5 @@
-Schematic and PCB Check Report
-------------------------------
+Forward Design Changes Report
+-----------------------------
 
 Report Written:     19:25 Wednesday, January 07, 2026
 Project Path:       C:\Users\davec\GIT\penplot\switch_pcb\switch_pcb.prj
@@ -10,9 +10,7 @@ Last Saved:         1/7/2026 7:14:44 PM
 Editing Time:       2312 min
 Units:              mm (precision 3)
 
-
-Checking integrity of Schematic and Pcb designs in project "switch_pcb"
-=======================================================================
+The designs are the same, so no design changes to forward.
 
 
 End Of Report.
