@@ -1,4 +1,5 @@
 *.stl
 *.pmx
 *.pwmx
-
+/library/
+/logs/
