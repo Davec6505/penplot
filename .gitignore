@@ -1,6 +1,8 @@
 *.stl
 *.pmx
 *.pwmx
+*.pwmx2
+*.pmx2
 *.step
 *.stp
 *.obj
@@ -18,7 +20,9 @@
 **/Library/*.STEP
 **/library/*.STL
 **/library/*.pmx
+**/library/*.pmx2
 **/library/*.pwmx
+**/library/*.pwmx2
 **/library/*.obj
 /logs/
 /switch_pcb/Plots
@@ -27,7 +31,9 @@
 /switch_pcb/Reports
 **/STL/
 **/STL/*.pmx
+**/STL/*.pmx2
 **/STL/*.pwmx
+**/STL/*.pwmx2
 **/STL/*.stl
 **/STL/*.obj
 **/STL/*.mtl
